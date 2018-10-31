@@ -1,8 +1,8 @@
 import React from "react";
 
 import "./App.css";
-// import LogoAnimation from "./patterns/ClassComponent.js";
-// import LogoAnimation from "./patterns/Hooks.js";
+// import LogoAnimation from "./patterns/CC.js";
+// import LogoAnimation from "./patterns/CC2Hooks.js";
 // import LogoAnimation from "./patterns/hoc.js";
 import LogoAnimation from "./patterns/hoc2Hooks.js";
 
