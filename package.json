@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.7.0-alpha.0",
     "react-dom": "^16.7.0-alpha.0",
-    "react-scripts": "2.1.0"
+    "react-scripts": "2.1.0",
+    "svg-react-loader": "0.4.6"
   },
   "scripts": {
     "start": "react-scripts start",

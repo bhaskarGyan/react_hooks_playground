@@ -31,7 +31,7 @@ const LogoAnimation = props => {
     <div className="App">
       <header className="App-header">
         <img
-          src={logo}
+          src="https://uploads.codesandbox.io/uploads/user/3c5a98d3-535d-4992-8975-1a1db2e033d1/7MID-logo.svg"
           className={`App-logo ${
             showAnimation ? "" : "stop-react-logo-animation"
           }`}
